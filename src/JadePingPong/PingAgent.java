@@ -23,6 +23,7 @@ System.out.println(" – " + myAgent.getLocalName() + " received: " + msg.getConte
 }
 // Блокируем поведение, пока в очереди сообщений агента
 // не появится хотя бы одно сообщение
+//test git
 block();
 }
 });
